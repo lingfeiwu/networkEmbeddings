@@ -1384,6 +1384,10 @@ body {
 .cid-s51eCcAWZX {
   background-image: url("../../../assets/images/holobionts-2880x1620-2000x1125.jpg");
 }
+.cid-s51eCcAWZX .mbr-text,
+.cid-s51eCcAWZX .mbr-section-btn {
+  text-align: left;
+}
 .cid-s51eCQOSkY {
   background-image: url("../../../assets/images/background4.jpg");
 }
